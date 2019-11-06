@@ -1,3 +1,4 @@
+markup: mmark
 ---
 title: Posts
 

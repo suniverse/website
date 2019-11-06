@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xinyu Li
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Canadian Institute for Theoretical Astrophysics 
+  url: www.cita.utoronto.ca
+- name: Perimeter Institute
+  url: http://www.perimeterinstitute.ca
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research areas are theoretical high energy astrophysics and cosmology. The topics I am working on include magnetars, force-free electrodynamics and large-scale structure of the universe.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- High Energy Astrophysics
+- Cosmology
+- Plasma Astrophysics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Physics
+    institution: Columbia University
+    year: 2019
+  - course: MSc in Theoretical Physics
+    institution: Perimeter Institute
+    year: 2013
+  - course: BSc in Physics and Mathematics
+    institution: The University of Hong Kong
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,24 +46,29 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: '#contact'  # For a direct email link, use "mailto:xli@cita.utoronto.ca".
+- icon: ads
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0750-3543&sort=date%20desc%2C%20bibcode%20desc&p_=0
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0750-3543
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Xinyu_Li5
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/suniverse
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ #- icon: cv#icon_pack: ai
+   #link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xli@cita.utoronto.ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently a joint Postdoctoral Fellow at CITA and Perimeter Institute. My research areas are theoretical astrophysics and cosmology. The topics I am working on include magnetars, force-free electrodynamics and fuzzy dark matter model.
