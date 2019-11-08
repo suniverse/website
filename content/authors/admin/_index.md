@@ -30,13 +30,13 @@ interests:
 education:
   courses:
   - course: PhD in Physics
-    institution: Columbia University
+    institution: Columbia University, USA
     year: 2019
   - course: MSc in Theoretical Physics
-    institution: Perimeter Institute
+    institution: Perimeter Institute, Canada
     year: 2013
   - course: BSc in Physics and Mathematics
-    institution: The University of Hong Kong
+    institution: The University of Hong Kong, China
     year: 2012
 
 # Social/Academic Networking
@@ -77,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a joint Postdoctoral Fellow at CITA and Perimeter Institute. My research areas are theoretical astrophysics and cosmology. The topics I am working on include magnetars, force-free electrodynamics and fuzzy dark matter model.
+I am currently a joint Postdoctoral Fellow at CITA and Perimeter Institute. I am fond of discovering fundamental physical laws from the vast observation of various astrophysical objects. My research areas are high energy astrophysics, plasma astrophysics and cosmology. My research topics cover a broad range of physical scales: from the smallest fundamental particles like electrons and ultralight axions, to neutron stars, black holes and galaxies, and to the largest scale structure of the universe.
